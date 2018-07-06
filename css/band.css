@@ -932,12 +932,15 @@ figure.effect-bubba:hover p {
 
 .row-fluid.Gallery {margin-bottom: 25px;}
 
+.youtube-player {max-width: 100%!important; }
 
 
 /*==========12. CUSTOM MEDIA QUERIES==============*/
 
 
 /*MEDIA QUERIES*/
+
+
 
 @media (max-width: 979px) {
  .hero-unit {
